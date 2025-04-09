@@ -19,7 +19,7 @@ def print_n_primes(n):
             count += 1
         num += 1
 
-
+#my name is gopal 
 try:
     n=int(input("Enter the number of prime numbers to print: "))
     if n>0:
